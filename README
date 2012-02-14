@@ -1,0 +1,1 @@
+Connect an arduino (with its own code running on it) to your laptop. Then connect the iRobot to your laptop. Then put the Wii Remote into search(?) mode and start the program. The program reads values in from the wii remote and then sends commands to either the arduino or the Create
